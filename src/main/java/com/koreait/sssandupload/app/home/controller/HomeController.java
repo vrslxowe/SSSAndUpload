@@ -1,4 +1,4 @@
-package com.koreait.sssandupload.app.home.contoller;
+package com.koreait.sssandupload.app.home.controller;
 
 import com.koreait.sssandupload.app.member.service.MemberService;
 import com.koreait.sssandupload.app.security.dto.MemberContext;
